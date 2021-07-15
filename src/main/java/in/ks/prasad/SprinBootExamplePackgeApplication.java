@@ -10,6 +10,9 @@ public class SprinBootExamplePackgeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SprinBootExamplePackgeApplication.class, args);
+
+		int i = 22;
+		int j = 55;
 	}
 
 }
