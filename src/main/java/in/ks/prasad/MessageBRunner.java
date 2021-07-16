@@ -10,6 +10,7 @@ public class MessageBRunner implements CommandLineRunner {
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		System.out.println("SampleOutput -B");
+		System.out.println("This is modified by First time in GIT HUB DIRECTLY"
 	}
 
 }
